@@ -62,10 +62,10 @@ Software engineer looking to specialise in game development 🎮
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henderson907&theme=neon-dark&background=000000&date_format=d/n/y" />
+    <img height=150 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henderson907&theme=neon-dark&background=000000&date_format=d/n/y" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henderson907&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henderson907&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" />
   </a>
 </div>
 
