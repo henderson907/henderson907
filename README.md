@@ -36,9 +36,9 @@ Software engineer looking to specialise in game development 🎮
 ### 🔥My Stats:
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+<!--   <a href="https://git.io/streak-stats">
     <img height=150 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henderson907&theme=neon-dark&background=000000&date_format=d/n/y" />
-  </a>
+  </a> -->
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henderson907&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" />
   </a>
@@ -49,4 +49,4 @@ Software engineer looking to specialise in game development 🎮
 
 ### 🦖 Misc:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=perigrin9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=perigrin9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
