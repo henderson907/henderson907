@@ -26,7 +26,7 @@ Software engineer looking to specialise in game development 🎮
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,ruby,rails,js,postgres,html,css,sass,matlab,r,heroku,git,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,ruby,rails,js,postgres,html,css,sass" />
   </a>
 </p>
 
