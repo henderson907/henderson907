@@ -14,11 +14,11 @@
 
 
 ### 👩‍💻 About Me:
-Software engineer looking to specialise in game development 🎮
+Software engineer looking to expand my skills 💪
 - 🏡 Currently based in the UK but always up for an adventure elsewhere!
 - 👩‍🦽 Passionate about creating accessible software
-- 🌱 Currently learning C++ and Unreal Engine
-- ⚡ Fun fact: I play wheelchair basketball in my free time!
+- 🌱 Currently learning C++ and honing my Ruby skills
+- ⚡ Fun fact: I play wheelchair basketball in my free time
 
 ---
 
@@ -26,7 +26,7 @@ Software engineer looking to specialise in game development 🎮
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,ruby,rails,js,postgres,html,css,sass" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,cpp,js,postgres,html,css,sass" />
   </a>
 </p>
 
