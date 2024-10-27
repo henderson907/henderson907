@@ -36,8 +36,3 @@ Software engineer looking to expand my skills 💪
   &nbsp
   <img height=200 margin=10 align="center" src="https://github.r2v.ch/codewars?user=henderson907&name=true&top_languages=true&theme=gradient" />
 </div>
-
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=perigrin9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
