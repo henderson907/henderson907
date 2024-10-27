@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZnOWYzYnV4NzNsMW56azNja25sZHhyZ2xkNXZrMGgzanFtbGV3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlkZWJjdTZiNmpiaWxrYWY1Ym1zMXYycGt3ZmJsNmt2ZTV0NmkwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif of woman coding">
   <div id="badges" align="center">
     <a href="https://www.codewars.com/users/henderson907"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Code Wars button"/></a>
     &nbsp
@@ -7,28 +7,25 @@
     &nbsp
     <a href="https://www.linkedin.com/in/freddy-henderson-a53435272/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linked In Button"/></a>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=henderson907&style=flat-square&color=blue" alt="Views Counter"/>
+    <img src="https://komarev.com/ghpvc/?username=henderson907&style=flat-square&color=orange" alt="Views Counter"/>
   </div>
   <h1>Hi, I'm Freddy! 👋</h1>
 </div>
 
-
 ### 👩‍💻 About Me:
 Software engineer looking to expand my skills 💪
 - 🏡 Currently based in the UK but always up for an adventure elsewhere!
-- 👩‍🦽 Passionate about creating accessible software
+- 🧑‍🦽 Passionate about creating accessible software
 - 🌱 Currently learning C++ and honing my Ruby skills
-- ⚡ Fun fact: I play wheelchair basketball in my free time
+- 🏀 Fun fact: I play wheelchair basketball in my free time
 
 ---
 
 ### 📚 Tech Stack:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,cpp,js,postgres,html,css,sass" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,cpp,js,postgres,html,css,sass">
+</div>
 
 ---
 
@@ -42,7 +39,5 @@ Software engineer looking to expand my skills 💪
 
 
 ---
-
-### 🦖 Misc:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=perigrin9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
