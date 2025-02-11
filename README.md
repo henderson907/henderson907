@@ -20,7 +20,7 @@ Software engineer looking to expand my skills 💪
 
 ### 📚 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,cpp,js,postgres,html,css,scss" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,py,cpp,js,postgres,html,css" alt="Tech Stack Icons">
 </div>
 
 ### 🔥 GitHub Stats
