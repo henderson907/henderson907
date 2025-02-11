@@ -15,7 +15,7 @@
 Software engineer looking to expand my skills 💪
 - 🏡 Currently based in the UK but always up for an adventure elsewhere!
 - 🧑‍🦽 Passionate about creating accessible software
-- 🌱 Currently learning C++ and honing my Ruby skills
+- 🌱 Currently learning Python and honing my Ruby skills
 - 🏀 Fun fact: I play wheelchair basketball in my free time
 
 ### 📚 Tech Stack
